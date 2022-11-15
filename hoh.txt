@@ -5851,6 +5851,7 @@ anoboy.ninja###countDown
 anoboy.ninja##div.wrap:nth-child(7) > div.container:nth-child(2) > p:nth-child(3)
 anoboy.ninja##div.wrap:nth-child(7) > div.container:nth-child(2) > div.social-home:first-child
 anoboy.ninja###popup_box
+influencersgonewild.com###page > div.g1-sticky-top-wrapper.g1-hb-row-2.g1-loaded:nth-child(5) > div.g1-row.g1-row-layout-page.g1-hb-row.g1-hb-row-mobile.g1-hb-row-c.g1-hb-row-2.g1-hb-boxed.g1-hb-sticky-on.g1-hb-shadow-off > div.g1-row-inner:first-child > div.g1-column.g1-dropable
 m.gadgets.ndtv.com##.top_ad
 ||api.kostprice.com/api/amp-widget$domain=m.gadgets.ndtv.com
 ||pstatp.com/site/reads-sdk*/*.js
