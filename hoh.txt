@@ -5850,6 +5850,7 @@ anoboy.ninja###popup_box > a:last-child > amp-img.dekstop.i-amphtml-element.i-am
 anoboy.ninja###countDown
 anoboy.ninja##div.wrap:nth-child(7) > div.container:nth-child(2) > p:nth-child(3)
 anoboy.ninja##div.wrap:nth-child(7) > div.container:nth-child(2) > div.social-home:first-child
+anoboy.ninja###popup_box
 m.gadgets.ndtv.com##.top_ad
 ||api.kostprice.com/api/amp-widget$domain=m.gadgets.ndtv.com
 ||pstatp.com/site/reads-sdk*/*.js
