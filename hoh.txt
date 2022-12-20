@@ -5851,6 +5851,9 @@ anoboy.ninja###countDown
 anoboy.ninja##div.wrap:nth-child(7) > div.container:nth-child(2) > p:nth-child(3)
 anoboy.ninja##div.wrap:nth-child(7) > div.container:nth-child(2) > div.social-home:first-child
 anoboy.ninja###popup_box
+107.152.47.208###onscroll
+107.152.47.208##div.mt.widgetbaner:nth-child(2)
+107.152.47.208###sosial
 influencersgonewild.com###page > div.g1-sticky-top-wrapper.g1-hb-row-2.g1-loaded:nth-child(5) > div.g1-row.g1-row-layout-page.g1-hb-row.g1-hb-row-mobile.g1-hb-row-c.g1-hb-row-2.g1-hb-boxed.g1-hb-sticky-on.g1-hb-shadow-off > div.g1-row-inner:first-child > div.g1-column.g1-dropable > div.g1-bin-2.g1-bin-grow-on:nth-child(2) > div.g1-bin.g1-bin-align-center > div.g1-id.g1-id-mobile > p.g1-mega.g1-mega-1st.site-title:first-child > a
 influencersgonewild.com###page > div.g1-row.g1-row-layout-page.g1-hb-row.g1-hb-row-mobile.g1-hb-row-b.g1-hb-row-3.g1-hb-boxed.g1-hb-sticky-off.g1-hb-shadow-on:nth-child(6) > div.g1-row-inner:first-child > div.g1-column.g1-dropable
 influencersgonewild.com###g1-canvas-primary-nav-menu > li.nav-placements.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-30902:nth-child(3) > a
